@@ -1,0 +1,4 @@
+.hello-txt {
+  font-size: 48rpx;
+  font-weight: 700;
+}

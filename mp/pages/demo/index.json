@@ -1,0 +1,7 @@
+{
+  "disableScroll": true,
+  "usingComponents": {
+    "hello-btn": "components/hello-btn/index",
+    "hello-txt": "components/hello-txt/index"
+  }
+}

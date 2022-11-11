@@ -1,0 +1,7 @@
+<view class="container">
+  <text class="title">Demo</text>
+  <view>{{ msg }}</view>
+  <button bindtap="clickMe">点击我</button>
+  <hello-btn bind:hellotap="onHelloBtnClick"></hello-btn>
+  <hello-txt></hello-txt>
+</view>
